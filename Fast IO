@@ -1,0 +1,23 @@
+#include <bits/stdc++.h>
+#define ll long long
+#define pii pair<int, int>
+#define pll pair<long, long>
+#define pb push_back
+#define fi first
+#define se second
+#define mod 1000000007
+#define MAXN 100005
+#define INF 1e9
+#define int long long
+#define FASTIO                \
+    ios::sync_with_stdio(0); \
+    cin.tie(0);              \
+    cout.tie(0);
+using namespace std;
+
+
+int32_t main() {
+    FASTIO;
+}
+
+
